@@ -1,4 +1,3 @@
-tallerphp
+Taller de PHP, armando un sitio dinámico
 =========
 
-Taller de PHP, armando un sitio dinámico
